@@ -10,7 +10,7 @@
             return $this->brand;
         }
     }
-    
+       
     // Object
     $rubicon = new Car();
     $tesla = new Car();
